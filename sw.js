@@ -1,4 +1,4 @@
-const CACHE = 'gymbros-v1';
+const CACHE = 'gymbros-v2';
 const FILES = [
   './',
   './index.html',
